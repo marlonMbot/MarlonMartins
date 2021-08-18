@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">I'm an Automation Engineer who is an enthusiast of python programming, IT, and cybersecurity. Recently, I'm working as a Data Analyst at Grupo Boticario.
+<h3 align="center">I'm an Automation Engineer who is an enthusiast of python programming, IT, and cybersecurity. Currently, I'm working as a Data Analyst at Grupo Boticario.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
